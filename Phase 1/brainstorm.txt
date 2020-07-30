@@ -1,0 +1,10 @@
+High-Level Entity Design:
+GUI User Input
+GUI Output Display
+Database Query Generator
+Database Response Parser
+Database
+
+Low-Level Entity Design:
+same as above
+IMDB Database
